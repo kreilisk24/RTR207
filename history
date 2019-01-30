@@ -1,0 +1,224 @@
+    1  sudo sh ./VBoxLinuxAdditions.run
+    2  Is
+    3  is
+    4  ls
+    5  ls/Videos
+    6  ls/desktop
+    7  ls/Desktop
+    8  /ls
+    9  ls
+   10  du
+   11  less
+   12  --help
+   13  help
+   14  ps
+   15  who
+   16  top
+   17  ls
+   18  du
+   19  ls
+   20  top
+   21  find
+   22  free
+   23  ls
+   24  python
+   25  sudo apt install python
+   26  python
+   27  ipython
+   28  sudo apt install ipython
+   29  ipython
+   30  idle
+   31  sudo apt install idle
+   32  idle &
+   33  git clone https://github.com/kreilisk24/RTR105
+   34  cd RTR105
+   35  idle
+   36  nano README.md
+   37  ./git-upload 20181121_17_13
+   38  git pull
+   39  ls -l
+   40  git pull --help
+   41  git pull --commit
+   42  .git/object
+   43  .git/objects
+   44  cd .git/objects/d2
+   45  ls -l
+   46  rm 77ca0f07a5820115880af1f99ad14652e0766f 
+   47  ls -l
+   48  cd RTR105
+   49  cd /RTR105
+   50  ~
+   51  cd ~
+   52  cd RTR105
+   53  ./git-upload 20181121_17_21
+   54  idle
+   55  rm RTR105
+   56  rm -rf RTR105
+   57  git clone https://github.com/kreilisk24/RTR105
+   58  cd RTR105
+   59  idleidle
+   60  idle
+   61  ./git-upload 20181121_17_49
+   62  ls -l
+   63  rm RTR105
+   64  rmd RTR105
+   65  rm -help
+   66  rm --help
+   67  rm -d RTR105
+   68  rm -i RTR105
+   69  rm -r RTR105
+   70  ls -l
+   71  rm -force RTR105
+   72  rm -dir RTR105
+   73  rm RTR105
+   74  rm --help
+   75  rm -f RTR105
+   76  rm -d-f RTR105
+   77  rm -d -f RTR105
+   78  rm -d -f -I RTR105
+   79  rm -d  -I RTR105
+   80  rm -I RTR105
+   81  rm -d -I RTR105
+   82  rm -rf RTR105
+   83  git clone github.com/kreilisk24/RTR105
+   84  git clone https://www.github.com/kreilisk24/RTR105
+   85  cd RTR105
+   86  idle -n gnuplot
+   87  gnuplot
+   88  sudo apt install gnuplot
+   89  gnuplot
+   90  idle -n &
+   91  history > history_20181204.txt
+   92  ./git-upload
+   93  ./git-upload 20181204_22_50
+   94  firefox &
+   95  ls -l
+   96  rm rf- RTR105
+   97  rm -rf RTR105
+   98  git clone https://github.com/kreilisk24/RTR105
+   99  cd RTR105
+  100  idle &
+  101  gnuplot
+  102  numpy
+  103  sudo apt install numpy
+  104  python setup.py build -j 4 install --prefix $HOME/.local
+  105  pip3 install numpy
+  106  pip install numpy
+  107  sudo apt install python3-pip
+  108  pip3 install numpy
+  109  idle &
+  110  sudo apt install matplotlib
+  111  pip3 install matplotlib
+  112  idle &
+  113  gnuplot
+  114  history > history_20181216.txt
+  115  ./git-upload 20181216_19_31
+  116  rm -rf RTR105
+  117  git clone https://github.com/kreilisk24/RTR105
+  118  rm -rf RTR105
+  119  idle &
+  120  git clone https://github.com/kreilisk24/RTR105
+  121  cd RTR105
+  122  gnuplot
+  123  idle &
+  124  gnuplot
+  125  ./git-upload 20181217_15_59
+  126  rm -rf RTR105
+  127  git clone http://github.com/kreilisk24/RTR105
+  128  cd RTR105
+  129  idle &
+  130  sudo apt-get update
+  131  sudo apt-get install git
+  132  sudo apt-get install python-numpy
+  133  sudo apt-get install python-matplotlib
+  134  sudo apt-get install jupyter
+  135  jupyter notebook
+  136  ls -l
+  137  ./git-upload 20181218_14_54
+  138  jupyter notebook
+  139  ./git-upload 20181218
+  140  firefox &
+  141  idle &
+  142  firefox &
+  143  ls - l
+  144  ls -l
+  145  rm - rf RTR105
+  146  rm -rf RTR105
+  147  ls -l
+  148  rm -rf RTR105
+  149  git clone https://github.com/kreilisk24/RTR105
+  150  cd RTR105
+  151  jupyter notebook
+  152  history > history_20181228.txt
+  153  ./git-upload 20181228_15_00
+  154  idle &
+  155  git clone https://github.com/kreilisk24/RTR207
+  156  nano
+  157  git-upload 20190130_21_00
+  158  mv ievads.m RTR207
+  159  cd RTR207
+  160  ls -l
+  161  git-upload 20190130_21_00
+  162  nano git-upload
+  163  idle &
+  164  git-upload 20190130_21_00
+  165  nano git-upload
+  166  idle git-upload
+  167  rm -rf git-upload
+  168  ls -l
+  169  git-upload 20190130_21_00
+  170  idle git-upload
+  171  idle git-upload.py
+  172  chmod 764 git-upload
+  173  ls -l
+  174  git-upload 20190130_21_00
+  175  run git-upload
+  176  git-upload
+  177  git-upload.py
+  178  idle 
+  179  rm -rf git-upload.py
+  180  ls- l
+  181  ls -l
+  182  git-upload 20190130
+  183  git-upload 20190130_21_00
+  184  pwd
+  185  idle git-upload
+  186  r
+  187  git-upload
+  188  git-upload.sh
+  189  git-upload.py
+  190* cd ~1
+  191  git clone https://github.com/kreilisk24/RTR105
+  192  cd RTR105
+  193  ls -l
+  194  mv git-upload RTR207
+  195  cd RTR207
+  196  cd ~
+  197  cd RTR207
+  198  ls- l
+  199  ls -l
+  200  chmod 755 git-upload 
+  201  ls -l
+  202  git-upload 20190130_21_00
+  203  git-upload
+  204  idle &
+  205  rm -rf git-upload
+  206  cd ~
+  207  cd RTR105
+  208  ls -l
+  209  cd ~
+  210  rm -rf RTR105
+  211  rm -rf RTR207
+  212  git clone https://github.com/kreilisk24/RTR105
+  213  cd RTR105
+  214  ls -l
+  215  cp git-upload
+  216  cp git-upload ~
+  217  cd ~
+  218  ls -l
+  219  git clone https://github.com/kreilisk24/RTR207
+  220  mv git-upload RTR207
+  221  cd RTR207
+  222  ls -l
+  223  nano ievads.m
+  224  history > history 20190130
