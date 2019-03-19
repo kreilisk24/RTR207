@@ -1,0 +1,3 @@
+syms x
+c = a * sqrt{x} - x;
+solve(c, a)
