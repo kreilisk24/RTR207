@@ -1,0 +1,28 @@
+import matplotlib
+import matplotlib.pyplot as plt
+import numpy as np
+import math
+# Data for plotting
+x = np.arange(-10.0, 10.0, 0.01)
+y1 = x;
+y2 = 1/(1+np.exp(-x))
+y3 = (np.exp(2*x)-1)/(np.exp(2*x)+1)
+y4 = np.arange(-10,1,0.01) * 0
+y5 = np.arange(1,10, 0.01) * 0 + 1
+yt = np.concatenate((y4,y5))
+y6 = np.arange(-10,0,0.01) * 0
+y7 = np.arange(0,10,0.01)
+yr = np.concatenate((y6,y7))
+fig, ax = plt.subplots()
+ax.plot(x, y1,label='Id',color='black')
+ax.plot(x, y2,label='Sigmoid', color='red')
+ax.plot(x, y3, label='tanh',color='blue')
+ax.plot(x, yt, label='Threshold', color='green')
+ax.plot(x, yr, label='ReLu',color='pink')
+ax.set(xlabel='x', ylabel='y(x)',
+       title='Activation Functions')
+ax.grid()
+ax.legend()
+plt.axis([-10,10,-3,3])
+fig.savefig("test.png")
+plt.show()
