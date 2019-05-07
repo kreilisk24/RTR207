@@ -6,7 +6,7 @@
 %  I1(0)        -I2(R7) +     I3(R7+R4+R3+R2+R1)  =-E1+J3(R7+R4+R3)
 
 %.........
-t=0:0.01:5;
+t = 0:0.01:5;
 r = [1 2 3 4 5 8 7 8];
 E1 = lab3(t);
 E2 = zeros(size(t))+4;
@@ -29,8 +29,14 @@ Pr7 = Ur7.*(I(2,:)-I(3,:));
 Ksp1 = r(8).*I(1,:) + r(6).*(I(1,:)-I(2,:)) -E1;
 % Ksp = 0 ?
 %.............................
-plot(t,Ksp1)
-hold on
-axis([0 5 -1 1])
-xlabel('t,s')
-ylabel('U,V')
+
+%plot(t,Ur7)
+%hold on
+
+%plot(t,Pr7)
+%hold on 
+%plot(t,Ksp1)
+%hold on
+%axis([0 5 -1 1])
+%xlabel('t,s')
+%ylabel('U,V')
